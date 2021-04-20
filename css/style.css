@@ -1,8 +1,22 @@
 body {
-    background-color: khaki;
+    background-color:lightskyblue;
 }
 h1 {
     display: flex;
     justify-content: center;
+    font-size: 40px;
+}
+
+#button {
+    display: flex;
+    justify-content: center;
     align-items: center;
+}
+
+#jaunsuzdevums {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 30px;
 }
