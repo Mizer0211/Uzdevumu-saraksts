@@ -1,3 +1,6 @@
+body {
+    background-color: khaki;
+}
 h1 {
     display: flex;
     justify-content: center;
